@@ -6005,6 +6005,48 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Wario",
+      "age": "62",
+      "description": "Bad Monster",
+      "id": 1002
+    },
+    {
+      "name": "Bowser",
+      "age": "11",
+      "description": "Bad Monster Too",
+      "id": 1003
+    },
+    {
+      "name": "Moltus",
+      "age": "123",
+      "description": "New Bad Monster",
+      "id": 1004
+    },
+    {
+      "name": "Kendy",
+      "age": "49",
+      "description": "",
+      "id": 1005
+    },
+    {
+      "name": "Kendy",
+      "age": "49",
+      "description": "Bad Monster",
+      "id": 1006
+    },
+    {
+      "name": "Bowser",
+      "age": "9",
+      "description": "Bad Monster",
+      "id": 1007
+    },
+    {
+      "name": "Bowser",
+      "age": "18",
+      "description": "Can vote",
+      "id": 1008
     }
   ]
 }
